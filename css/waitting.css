@@ -1,0 +1,10 @@
+.test ul li em {
+  display: inline-block;
+  width: 3.3vw;
+  height: 3.3vw;
+  background-color: #42a2f5;
+  border-radius: 50%;
+  line-height: 3.5vw;
+  color: #fff;
+  margin-left: 1vw;
+}
